@@ -11,7 +11,7 @@ of first file into second file.
 
 
 
-Write a Java Program to implement Adapter pattern for Enumeration iterator
+1) Write a Java Program to implement Adapter pattern for Enumeration iterator
 
 :
 import java.util.*;
@@ -44,7 +44,7 @@ public class Main {
 } 
 
 
-Write a python program to implement Multiple Linear Regression for given dataset.
+q2) Write a python program to implement Multiple Linear Regression for given dataset.
 :
 from sklearn import linear_model
 clf = linear_model.LinearRegression()
@@ -52,7 +52,7 @@ clf.fit([[getattr(t, 'x%d' % i) for i in range(1, 8)] for t in texts],
         [t.y for t in texts])
 
 
-Q. 3 Using nodejs create a web page to read two file names from user and append contents
+Q. 3  Using nodejs create a web page to read two file names from user and append contents
 of first file into second file
 
 :
